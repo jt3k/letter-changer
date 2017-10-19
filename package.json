@@ -1,0 +1,29 @@
+{
+  "name": "letter-changer",
+  "version": "0.0.0",
+  "description": "Replaces Russian letters for similar English for Russian car numbers",
+  "license": "MIT",
+  "repository": "jt3k/letter-changer",
+  "author": {
+    "name": "Andrey Gurtovoy",
+    "email": "iyntx@ya.ru",
+    "url": "github.com/jt3k"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.0"
+  }
+}
