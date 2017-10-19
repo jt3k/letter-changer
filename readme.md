@@ -2,6 +2,7 @@
 
 > Replaces Russian letters for similar English for Russian car numbers
 
+![](https://i.imgur.com/WWpvqQe.png)
 
 ## Install
 
