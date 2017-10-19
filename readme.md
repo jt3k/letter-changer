@@ -5,8 +5,8 @@
 
 ## Install
 
-```
-$ npm install --save letter-changer
+```bash
+$ ### not now ### npm install --save letter-changer
 ```
 
 
